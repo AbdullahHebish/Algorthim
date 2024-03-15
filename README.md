@@ -1,6 +1,8 @@
 #learning Github
 ##sub heading
+
 just a simple repo
+
 -frist line
 -second line
   -indented
